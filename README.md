@@ -22,20 +22,14 @@
 | SRR3414629 |	control |	20307147 |	19757059 (97.29%) |	17825380 (87.78%) |	15757580 |
 | SRR3414629 |	control |	20385570 |	19847291 (97.36%) |	17844858 (87.54%) |	15736978 |
 
-Образец	Тип	Количество чтений	Успешно откартированные	Уникально откартированные	Кол-во чтений на ген
-SRR3414629	перепрограмированный	21106089	20510113 (97.18%)	18375888 (87.06%)	16049609
-SRR3414630	перепрограмированный	15244711	14832680 (97.30%)	13186139 (86.50%)	11465324
-SRR3414631	перепрограмированный	24244069	23547686 (97.13%)	20928945 (86.33%)	18408851
-SRR3414635	контроль	20956475	20395865 (97.32%)	18428317 (87.94%)	16275997
-SRR3414636	контроль	20307147	19757059 (97.29%)	17825380 (87.78%)	15757580
-SRR3414637	контроль	20385570	19847291 (97.36%)	17844858 (87.54%)	15736978
 
 Графики из анализа DESeq2:
 ![image](https://user-images.githubusercontent.com/92381120/144410161-cfb4714e-303b-42d4-9f9d-b726149c9414.png)
 ![image](https://user-images.githubusercontent.com/92381120/144410219-942e3bfa-f173-45b3-9198-4d7f788cba96.png)
 ![image](https://user-images.githubusercontent.com/92381120/144410259-b572dd2e-082e-4fcf-b7cc-baf63636b9f9.png)
-![image](https://user-images.githubusercontent.com/92381120/144410329-7c9d69c3-386a-4466-8c43-7d641e21836c.png)
-![image](https://user-images.githubusercontent.com/92381120/144410365-bfd8daf6-1b27-4a19-90bc-6071e49fa041.png)
-![image](https://user-images.githubusercontent.com/92381120/144410392-e289e078-3170-44bc-a658-395a1827b464.png)
-![image](https://user-images.githubusercontent.com/92381120/144410428-b2c8114f-d324-4916-9434-8dccf2d60667.png)
-![image](https://user-images.githubusercontent.com/92381120/144410492-8ba979d1-c1ed-435f-bf4c-d8cc19985ab4.png)
+![image](https://user-images.githubusercontent.com/92381120/144416797-7cc99945-c417-4de1-9b63-52d139c862b5.png)
+![image](https://user-images.githubusercontent.com/92381120/144416842-c72d7fa2-4801-4fb2-a81c-819c96bd8be6.png)
+![image](https://user-images.githubusercontent.com/92381120/144416881-eaa472c0-9298-45fb-9bcc-51b3b57646d7.png)
+![image](https://user-images.githubusercontent.com/92381120/144416910-5baac23d-54e7-4442-8cc6-137ecd420fb3.png)
+![image](https://user-images.githubusercontent.com/92381120/144416930-028f9e14-6769-49c0-b19f-4463c614c481.png)
+
